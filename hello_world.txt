@@ -1,0 +1,8 @@
+THis is simmply another test where i'm adding text. But in this case, i'm adding it so I can then stage and 
+then commit. I'm trying to really understand how to use this Git and GitHub thing!
+
+Adding more text for poops and giggles. 
+
+Thank you for your consideration. 
+
+Deep
